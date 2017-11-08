@@ -1,6 +1,1 @@
 # hello-world
-
-Hi there,
-I am Shpak08. It's terrifying! I don't know anything here. But very interesting!
-It's like to get deep into the ocean, not knowing how to swim...
-And trying to make your first moves...
